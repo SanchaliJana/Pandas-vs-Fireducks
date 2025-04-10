@@ -1,4 +1,4 @@
-# 🔥 Pandas vs FireDucks - Speed Battle on Big Data!
+# 🔥 Pandas vs FireDucks !
 
 This project is all about comparing two powerful Python libraries — **FireDucks** and **Pandas** — when working with really large datasets 🧠📊
 
